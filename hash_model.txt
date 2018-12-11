@@ -1,0 +1,19 @@
+params = {
+  "pirate" => {
+    "name" => "string",
+    "weight" => "string",
+    "height" => "string",
+    "ship" => [
+      {
+        "name" => "string",
+        "type" => "string",
+        "booty" => "string"
+      },
+      {
+        "name" => "string",
+        "type" => "string",
+        "booty" => "string"
+      }
+    ]
+  }
+}
